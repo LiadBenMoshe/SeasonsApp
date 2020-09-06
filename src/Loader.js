@@ -4,12 +4,12 @@ import "./Loader.css";
 const Loader = () => {
   return (
     <div id="load">
-      <div>b</div>
-      <div>e</div>
-      <div>W</div>
+      <div>g</div>
+      <div>n</div>
+      <div>i</div>
       <div>d</div>
       <div>a</div>
-      <div>i</div>
+      <div>o</div>
       <div>L</div>
     </div>
   );
