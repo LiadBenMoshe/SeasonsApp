@@ -72,3 +72,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 Reveals your location, and by date shows what season you are in
 
 ### Pictures
+![GitHub Logo](/image/55.png)
+![GitHub Logo](/image/56.png)
+![GitHub Logo](/image/57.png)
